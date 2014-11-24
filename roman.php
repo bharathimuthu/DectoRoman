@@ -36,7 +36,7 @@ echo <<<_END
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-xs-12 ">
-				<p id="output"><b>$out</b></p>
+				<p id="output"><b>$number > $out</b></p>
 			</div>			
 		</div>
 	</div>
